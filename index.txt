@@ -1,0 +1,186 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Krushna Aher
+Krushna Aher
+Data Analyst
+
+Show Contacts
+
+Email
+krishnaaher01@gmail.com
+
+Phone
++919373246678
+
+Birthday
+Desc 13, 2006
+
+Location
+Khamgaon, TQ kannad, Dist chatrapati sambhajinagar
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+Welcome to my GitHub profile!  
+I’m a **Data Analyst** passionate about turning raw data into meaningful insights and interactive dashboards.
+
+## service
+
+What i'm doing
+
+alt = data analytics icon
+Data Analytics
+Advanced analysis of structured and unstructured data to uncover insights, trends, and patterns that support business decisions.
+
+alt = dashboard icon
+Data Visualization
+Designing interactive dashboards and reports using Power BI, Excel, and SQL for clear and actionable insights.
+
+alt = database icon
+Data Management
+Efficient data cleaning, transformation, and database management to ensure accuracy and reliability.
+
+alt = statistics icon
+Statistical Analysis
+Applying statistical techniques to identify correlations, performance metrics, and growth opportunities.
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel Lewis
+Daniel Lewis
+Working with Krushna as a Data Analyst was a great experience. He delivered clear insights
+through well-structured dashboards and helped us make data-driven business decisions 
+with confidence.
+
+alt = Jessica Miller
+Jessica Miller
+Krushna transformed our raw data into meaningful reports using Power BI and Excel. His 
+analytical thinking and attention to detail significantly improved our reporting accuracy.
+
+alt = Emily Evans
+Emily Evans
+The data analysis work was highly professional and timely. Krushna’s ability to clean, 
+analyze, and visualize complex datasets made our performance tracking much easier.
+
+alt = Henry William
+Henry William
+Krushna provided actionable insights using SQL and dashboards that directly supported 
+our business strategy. His communication and problem-solving skills are excellent.
+
+
+## clients
+
+Clients
+
+alt = Clients & Partners
+Delivering analytics solutions for growing businesses.
+
+
+
+# resume
+
+Resume
+
+Education
+
+Dr. Babasaheb Ambedkar College, Kannad
+Second Year (SY) – Ongoing
+Currently pursuing undergraduate studies with a focus on analytical thinking, data 
+handling, and practical learning.
+
+Dr. Babasaheb Ambedkar College, Kannad
+Higher Secondary Certificate (12th)
+Completed higher secondary education with a strong academic foundation.
+
+Manubai Vidyalaya Manegaon
+Secondary School Certificate (10th)
+Completed secondary education, building core knowledge and discipline.
+
+My skills
+
+Data Analysis – 85%
+Power BI – 80%
+Excel – 55%
+MYSQL – 75%
+Python – 60%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Dashboards
+Data Analysis
+SQL Projects
+Excel Reports
+
+Select category
+All
+Dashboards
+Data Analysis
+SQL Projects
+Excel Reports
+
+alt = sales dashboard
+Sales Performance Dashboard
+Power BI
+
+alt = finance analysis
+Financial Data Analysis
+Excel & Power BI
+
+alt = sql project
+Customer Data Analysis
+SQL
+
+alt = excel report
+Monthly Sales Report
+Microsoft Excel
+
+alt = hr dashboard
+HR Analytics Dashboard
+Power BI
+
+alt = python analysis
+Data Cleaning & Analysis
+Python
+
+alt = revenue analysis
+Revenue Insights
+Power BI & SQL
+
+alt = task analysis
+Operational Data Analysis
+Excel
+
+alt = business dashboard
+Business Summary Dashboard
+Power BI
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
